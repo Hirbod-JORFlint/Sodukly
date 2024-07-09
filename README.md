@@ -1,2 +1,2 @@
 # Sodukly
-An ML solver for soduku
+An ML solver for Sudoku
